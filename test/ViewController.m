@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     int i = 0;
+    int j = 1;
 }
 
 - (void)didReceiveMemoryWarning {
