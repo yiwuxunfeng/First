@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     int i = 0;
     int j = 1;
+    
+    double n = 1.0f;
 }
 
 - (void)didReceiveMemoryWarning {
