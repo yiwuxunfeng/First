@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     int i = 0;
     int j = 1;
+    float m = 0.0f;
     
     double n = 1.0f;
 }
