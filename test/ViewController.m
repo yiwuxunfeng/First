@@ -22,6 +22,7 @@
     float m = 0.0f;
     
     double n = 1.0f;
+    double res = m + n;
 }
 
 - (void)didReceiveMemoryWarning {
